@@ -1,0 +1,55 @@
+Job Description
+1. Design, build, and maintain efficient, reusable, and reliable code, using native PHP, various PHP frameworks, TailwindCSS, and similar components and libraries.
+
+2. Develop front-end website architecture and user interactions using HTML, CSS, and JavaScript frameworks.
+
+3. Design and creation of RESTful APIs.
+
+4. Develop back-end web services and improve application architecture.
+
+5. Handle server-side programming and manage database operations.
+
+6. Familiarity with version control systems such as Git.
+
+7. Test, troubleshoot, debug, and upgrade software.
+
+8. Create security and data protection settings.
+
+9. Implement data storage solutions and handle data migrations, transformations, and scripting.
+
+10. Understand and implement software design principles and patterns.
+
+11. Collaborate with a team of developers, designers, and product managers. 
+
+12. Assist in project planning and solution delivery timelines.
+
+13. Conduct code reviews and enforce quality standards.
+
+14. Continually learn new technologies to stay current with industry best practices. 
+
+15. Proficient Understanding of MVC design patterns.
+
+# keywords: php, laravel, css, html5, linux, responesiveness, json, javascript, git, macOS, web, software
+
+Job Requirements
+1. Degree in Computer Science, Informatics, Information Systems, or another quantitative field.
+
+2. Proven work experience as a Full Stack Developer or similar role. 
+
+3. Proficient knowledge in PHP as a back-end programming language. 
+
+4. Proficient experience using advanced JavaScript libraries and frameworks.
+
+5. Proficient understanding of server-side CSS preprocessors. 
+
+6. Deep understanding of front-end technologies, such as HTML5, CSS3, and JavaScript. 
+
+7. Good understanding of server-side templating languages. 
+
+8. Knowledge of code versioning tools such as Git. 
+
+9. Strong problem solving and troubleshooting skills. 
+
+10. Excellent written and verbal communication skills. 
+
+11. Attention to detail. 

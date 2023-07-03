@@ -1,0 +1,86 @@
+Job Description
+Responsibilities and Duties :
+Participate in the entire application lifecycle, focusing on coding and debugging.
+Write clean code to develop functional web applications
+Troubleshoot and debug applications 
+ Perform UI tests to optimise performance
+Manage cutting-edge technologies to improve legacy applications
+Collaborate with Front-end developers to integrate user-facing elements with server side logic
+Gather and address technical and design requirements
+Administration web servers •
+Build reusable code and libraries for future use
+Liaise with developers, designers and system administrators to identify new features
+Follow emerging technologies 
+Document all your coding work in professional way
+
+Job Requirements
+Qualifications and Education Requirement :
+Proven work experience as a Back-end developer more than 4 years
+In-depth understanding of the entire web development process (analysis, design, development, testing and deployment)
+Experience with programming languages: Node Js.
+Working knowledge of language framework like Yii2 and Express and nest.
+Experience with database like postgreSQL, MYSQL, and MongoDB
+Familiarity with front-end languages (e.g. React web, vue js, Typescript)
+Excellent analytical and time management skills
+Teamwork skills with a problem-solving attitude
+BSc degree in Computer Science or relevant field Preferred Skills
+Experience with Node Js.
+Earned certification in related field
+Experience with docker or kubernetes
+
+Hosni Khaled
+Software Engineering Student
+hosnikhaled64@gmail.com
+01096533831
+39 Rateep Street, Cairo, Egypt
+linkedin.com/in/hosnikhaled64@gmail.com
+EDUCATION
+Computers and Artiﬁcial Intelligence
+Cairo University
+09/2019 - Present
+,
+
+OOP
+Algorithm
+Testing
+Data Strucure
+Software Modelling
+Software Architecture
+High School
+Hafez Ibrahim School
+08/2018 - 07/2019
+,
+
+SKILLS
+C++
+JAVA
+HTML
+Spring Boot
+Team Worker
+Self-Learning
+PERSONAL PROJECTS
+Hotel Management system
+ (08/2022 - 09/2022)
+
+Occupy and free the room by checking if there is room available as
+per customer need like view
+Trip_Scheduling
+Practice in the concept that i have learned during Spring Boot
+course
+Non-Trival Software System
+Practice in the concept that i have learned during software
+architecture course
+CERTIFICATES
+Red Hat Application Development I: Programming in
+java EE (AD183)
+Red Hat System Administration I (RH124)
+Red Hat OpenShift I: Containers & Kubernetes (DO180)
+Getting Started with Spring Boot
+LANGUAGES
+Arabic
+Native or Bilingual Proﬁciency
+English
+Professional Working Proﬁciency
+INTERESTS
+Programming
+Courses
