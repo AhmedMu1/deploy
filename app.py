@@ -33,7 +33,7 @@ def extract_text_from_pdf(file):
     # Iterate over each page in the PDF document
     for page_number in range(len(reader.pages)):
         # Extract the text from the page and append it to the string
-        text += reader.pages[page_number].extract_text()
+        text += pdf_reader.pages[page_number].extract_text()
 
     return text
 
