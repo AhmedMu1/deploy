@@ -1,7 +1,6 @@
 import PyPDF2
 import nltk
 from nltk.tokenize import word_tokenize
-import tensorflow as tf
 import tensorflow_hub as hub
 import numpy as np
 from flask import Flask, request, jsonify
