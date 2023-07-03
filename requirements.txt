@@ -1,15 +1,3 @@
 gunicorn
-nltk.corpus
-stopwords
-PyPDF2
-PdfReader
-re
-pathlib
-Path
-nltk
+Flask
 os
-sentence_transformers
-SentenceTransformer
-sklearn.metrics.pairwise
-cosine_similarity
-tabulate
