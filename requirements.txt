@@ -1,7 +1,6 @@
 gunicorn
 PyPDF2
 nltk
-tensorflow
 tensorflow_hub
 numpy
 Flask
