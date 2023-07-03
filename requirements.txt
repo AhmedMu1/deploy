@@ -4,3 +4,4 @@ nltk
 tensorflow_hub
 numpy
 Flask
+tensorflow
