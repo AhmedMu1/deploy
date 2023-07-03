@@ -1,29 +1,91 @@
-from flask import Flask, request, render_template, url_for, jsonify
-import os
+import PyPDF2
+import nltk
+from nltk.tokenize import word_tokenize
+import tensorflow as tf
+import tensorflow_hub as hub
+import numpy as np
+from flask import Flask, request, jsonify
 
-app = Flask(__name__)
+nltk.download('punkt')
 
-@app.route('/listApi', methods=["GET"])
-def list_all_job_descriptions_text():
-    # Set the path to the folder containing the TXT files
-    folder_path = 'Job_description_TXT'
+app = Flask(_name_)
 
-    # Get a list of all the files in the folder
-    files = os.listdir(folder_path)
 
-    # Filter the list to include only TXT files
-    txt_files = [file for file in files if file.endswith('.txt')]
+def filter_text(text):
+    # Tokenize the text into individual words
+    tokens = word_tokenize(text)
 
-    # Join the names of the TXT files using a delimiter
-    job_description_names = "\n".join(txt_files)
+    # Join the filtered tokens back into a single string
+    filtered_text = ' '.join(tokens)
 
-    return job_description_names
+    # Remove extra whitespaces
+    filtered_text = ' '.join(filtered_text.split())
+
+    return filtered_text
+
+
+def extract_text_from_pdf(file):
+    text = ""
+
+    # Create a PDF reader object
+    pdf_reader = PyPDF2.PdfFileReader(file)
+
+    # Iterate over each page in the PDF
+    for page_num in range(pdf_reader.numPages):
+        # Extract the text from the page and append it to the string
+        page = pdf_reader.getPage(page_num)
+        text += page.extract_text()
+
+    return text
+
+
+def calc_semantic(cv_text, job_description_text):
+    try:
+        module_url = "https://tfhub.dev/google/universal-sentence-encoder/4"
+        model = hub.load(module_url)
+
+        # Encode the CV text and job description text into document embeddings
+        cv_embedding = np.array(model([cv_text])[0])
+        job_embedding = np.array(model([job_description_text])[0])
+
+        # Calculate cosine similarity between the document embeddings
+        similarity_score = np.dot(cv_embedding, job_embedding) / (
+                    np.linalg.norm(cv_embedding) * np.linalg.norm(job_embedding))
+
+        return similarity_score
+    except Exception as e:
+        print(e)
 
 
 @app.route('/')
-def home():
-    return render_template('index.html')
+def index():
+    data = {"status": "Hello"}
+    return jsonify(data)
 
 
-if __name__ == '__main__':
+@app.route("/rating", methods=["POST"])
+def rating():
+    if request.method == "POST":
+        cv = request.files.get('cv')
+        job_description_text = request.form.get('job_description')
+
+        if cv is None or cv.filename == "" or job_description_text is None or job_description_text == "":
+            return jsonify({"error": "No file or input string provided"})
+
+        try:
+            # Extract text from the CV PDF
+            cv_text = extract_text_from_pdf(cv)
+
+            # Calculate the semantic similarity
+            semantic_similarity = calc_semantic(cv_text, job_description_text)
+
+            data = {"rating": float(semantic_similarity)}
+
+            return jsonify(data)
+
+        except Exception as e:
+            return jsonify({"error": str(e)})
+
+
+if _name_ == '_main_':
     app.run(debug=True)
