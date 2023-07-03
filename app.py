@@ -28,10 +28,10 @@ def extract_text_from_pdf(file):
     text = ""
 
     # Create a PDF reader object
-    pdf_reader = PyPDF2.PdfFileReader(file)
+    pdf_reader = PyPDF2.PdfReader(file)
 
     # Iterate over each page in the PDF
-    for page_num in range(pdf_reader.numPages):
+    for page_num in range(len(pdf_reader.pages)):
         # Extract the text from the page and append it to the string
         page = pdf_reader.getPage(page_num)
         text += page.extract_text()
