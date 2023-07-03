@@ -1,0 +1,14 @@
+nltk.corpus
+stopwords
+PyPDF2
+PdfReader
+re
+pathlib
+Path
+nltk
+os
+sentence_transformers
+SentenceTransformer
+sklearn.metrics.pairwise
+cosine_similarity
+tabulate

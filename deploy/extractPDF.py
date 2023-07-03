@@ -1,4 +1,3 @@
-import stopwords as stopwords
 from PyPDF2 import PdfReader
 import re
 from pathlib import Path
