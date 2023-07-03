@@ -1,7 +1,6 @@
 gunicorn
 PyPDF2
 nltk
-word_tokenize
 tensorflow
 tensorflow_hub
 numpy
