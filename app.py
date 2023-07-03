@@ -8,7 +8,7 @@ from flask import Flask, request, jsonify
 
 nltk.download('punkt')
 
-app = Flask(_name_)
+app = Flask(__name__)
 
 
 def filter_text(text):
