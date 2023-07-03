@@ -57,7 +57,7 @@ def calc_semantic(cv_text, job_description_text):
         print(e)
 
 
-@app.route('/')
+@app.route('/test')
 def index():
     data = {"status": "Hello"}
     return jsonify(data)
