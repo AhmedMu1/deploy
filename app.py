@@ -1,10 +1,5 @@
 from flask import Flask, request, render_template, url_for, jsonify
-from extractPDF import Extract
-from sentenceTransformers import Similarity
 import os
-
-extractPDF = Extract()
-similarity = Similarity()
 
 app = Flask(__name__)
 
