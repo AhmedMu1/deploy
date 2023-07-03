@@ -1,0 +1,8 @@
+Job Description
+Develop, maintain, and support zVendo e-commerce platform backend functionalities.
+Autonomy interpreting business/technical requirements, designing, implementing and testing high-quality solutions.
+Work in a team-based development environment with modular code base, peer reviews and pull requests, with disciplined use of source code control and documentation.
+Constantly aim for quality, scalability, performance, and architecture keeping good practices, security, and compliance in check.
+Be part of a fast and agile development process.
+Contribute actively and proactively to optimize applications, processes, and methodologies.
+Be willful to help peers, being part of a collaborative environment for development, testing, and automation tasks.

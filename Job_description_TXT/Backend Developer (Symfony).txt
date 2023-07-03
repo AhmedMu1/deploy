@@ -1,0 +1,27 @@
+Job Description
+Develop, maintain, and support zVendo e-commerce platform backend functionalities.
+Autonomy interpreting business/technical requirements, designing, implementing and testing high-quality solutions.
+Work in a team-based development environment with modular code base, peer reviews and pull requests, with disciplined use of source code control and documentation.
+Constantly aim for quality, scalability, performance, and architecture keeping good practices, security, and compliance in check.
+Be part of a fast and agile development process.
+Contribute actively and proactively to optimize applications, processes, and methodologies.
+Be willful to help peers, being part of a collaborative environment for development, testing, and automation tasks.
+
+Job Requirements
+Qualifications
+
+Strong working experience and knowledge with PHP frameworks (e.g: Laravel, Symfony)
+Agile experience is a must.
+Sylius knowledge is a plus.
+E-commerce experience is a plus.
+Benefits:
+
+An attractive package that matches your work experience within our team.
+A unique experience in an entrepreneurial, yet structured environment
+The opportunity to become part of a highly professional and dynamic team
+An unparalleled personal and professional growth as our longer-term objective is to train the next generation of leaders
+We trust in the power of creativity and flexibility and try to build an environment that allows you to be your best self.
+We offer a variety of comprehensive plans covering medical and dental needs for you. An active lifestyle is a healthy life,
+We are not a 9-5 company. Neither do we follow a traditional annual holiday policy. We believe in working smarter, not harder, and allowing employees to take time off, whenever and as much as they need.
+You may work from home whenever you need and as much as this suits your daily tasks.
+All zVendo offices are built with many collaborative break-out spaces, with snack and coffee corners functioning 24/7. You also have the freedom to stream your music right at your workstation and work accompanied by your favorite tunes!

@@ -1,0 +1,15 @@
+Job Description
+About the job:
+
+We are looking for an experienced Flutter Developer who will join our talented software team that works on mission-critical applications. Your duties will include managing Flutter (Android, iOS) application development while providing expertise in the full software development lifecycle, from concept and design to testing.
+
+You should have good experience in building high-performing, scalable, enterprise-grade applications and be able to write clean code and ensure your programs run properly. We also expect you to be passionate about building software and perform well working in a team, along with developers, engineers, and web designers.
+
+Flutter Developer Responsibilities Are
+
+Design and develop high-volume, low-latency applications for mission-critical systems and delivering high-availability and performance
+Create well designed, testable, efficient code
+Participate in all phases of the development life-cycle
+Assist in the preparation and production of releases of software components
+Ensure designs are in compliance with specifications
+Investigate alternatives and technologies and present them for architectural review, in order to support continuous improvement

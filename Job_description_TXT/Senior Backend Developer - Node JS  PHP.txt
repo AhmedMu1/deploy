@@ -1,0 +1,65 @@
+Job Description
+
+Think insurance is boring? Think again.
+
+ 
+
+Trufla Technology is a multinational Canadian company and the first of its kind – we offer a complete suite of digital solutions for the modern insurance brokerage. From SEO and web design, to lead management, branded customer service and API’s, Trufla provides a 360° digital strategy for brokerages and reimagines the way their customers interact with insurance. 
+
+ 
+
+Trufla is leading a digital revolution that will transform the insurance industry! We’re growing fast, and we’re looking for visionaries to join our team of innovators and disruptors at our Cairo offices. 
+
+It’s our goal for Trufla to be the BEST place to work. A great corporate culture is one of our top priorities.
+
+Main Benefits:
+
+ 
+Competitive Salary Connected to USD exchange rate
+Employees Share Ownership Program
+Health Insurance
+Flexible Working Hours
+Continuing Education Opportunities
+Hybrid work model
+Team Building Activities
+Milestone celebrations – work anniversaries, birthday celebrations, etc.
+About You
+
+You're passionate about bringing ideas to life through technology. You need to be a part of a team focused on providing exceptional solutions to both internal and external customers, with a solid foundation in website development technology. You're also passionate about learning and evaluating new and emerging technologies. You're well organized and can balance multiple tasks and competing priorities. You're also driven to meet deadlines and flourish in an environment that's demanding and fast-paced. You're an experienced developer with a passion for delivering solutions to clients. You have strong English language skills, both spoken and written.
+
+Job Responsibilities
+
+Provide development expertise to a cross-disciplinary, and geographically diverse team, to ensure that the development needs are balanced with other competing priorities
+Establish and guide our platform architecture as well as design and develop new features and functionality
+Bring innovative ideas to the table to help make our environment and processes better
+Be constantly experimenting and innovating
+
+
+Job Requirements
+Job Qualifications
+
+Experience in debugging and performance optimizations
+Familiarity with agile development methodologies
+Experience building Restful APIs using Node.js
+Experience using ExpressJS
+Experience in both JavaScript and Typescript writing Node.js Applications.
+Experience integrating with third-party APIs, e.g. Stripe, Mailgun etc.
+Experience with source control management systems (Git).
+Experience with database development including Relational DBs and NoSQL.
+Experience in writing automated test cases.
+Good understanding of Object-oriented programming.
+Good knowledge of clean coding best practices, design patterns and code structuring.
+Ability to quickly learn new technologies and tools as required.
+Experience with Amazon web services (AWS).
+Experience with CI/CD implementations and concepts.
+Experience building SaaS, and distributed systems, with High availability, scalability, and fault tolerance in mind.
+Experience building Multitenant applications.
+Values & Competencies
+
+Positive attitude and enthusiasm for employee training and development
+Flexible and adaptable with proven problem solving ability
+High degree of professionalism and integrity
+Demonstrated accountability and reliability in the quality and timeliness of work
+Ability to work well within a team, and independently, and able to adjust to tight and changing deadlines
+Critical thinker with strong attention to details
+Trufla Technology is an equal opportunity employer and is committed to all forms of diversity in the workplace. All qualified individuals are encouraged to apply.

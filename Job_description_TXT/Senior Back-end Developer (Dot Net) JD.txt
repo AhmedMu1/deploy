@@ -1,0 +1,10 @@
+Job Description
+Translate application storyboards and use cases into functional applications.
+Design, build and maintain efficient, reusable, and reliable code.
+Integrate data storage solutions.
+Identify bottlenecks and bugs, and devising solutions to mitigate and address these issues.
+Integrate user-facing elements developed by front-end developers with server-side logic.
+Build reusable code and libraries for future use.
+Optimize the application for maximum speed and scalability.
+Implementing security and data protection.
+Design and implementing data storage solutions.

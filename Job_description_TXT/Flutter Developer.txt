@@ -1,0 +1,47 @@
+Job Description
+About the job:
+
+We are looking for an experienced Flutter Developer who will join our talented software team that works on mission-critical applications. Your duties will include managing Flutter (Android, iOS) application development while providing expertise in the full software development lifecycle, from concept and design to testing.
+
+You should have good experience in building high-performing, scalable, enterprise-grade applications and be able to write clean code and ensure your programs run properly. We also expect you to be passionate about building software and perform well working in a team, along with developers, engineers, and web designers.
+
+Flutter Developer Responsibilities Are
+
+Design and develop high-volume, low-latency applications for mission-critical systems and delivering high-availability and performance
+Create well designed, testable, efficient code
+Participate in all phases of the development life-cycle
+Assist in the preparation and production of releases of software components
+Ensure designs are in compliance with specifications
+Investigate alternatives and technologies and present them for architectural review, in order to support continuous improvement
+
+
+Job Requirements
+Preferred Experience:
+
+3+ years of experience working with mobile development
+1-year experience in Flutter Development
+Must show your previous work.
+Experience in Flutter Development
+BS/MS degree in Computer Science, Engineering or a related subject.
+Deployed at least 3 apps
+Have experience with Flutter for both iOS and Android.
+Familiarity with RESTful APIs, GraphQL APIs.
+Knowledge of modern authorization mechanisms, such as JSON Web Token.
+Ability to understand business requirements and translate them into technical requirements.
+Familiarity with code versioning tools.
+Flux, Redux, and Rxjs is Preferred
+Know how to deal with different screen sizes.
+Experience with version control such as Git and SVN.
+Required Skills:
+
+Good communication skills.
+Strong problem-solving skills.
+Team worker.
+Very comfortable learning new technologies, tools, and platforms.
+Highly motivated.
+Initiative and passionate.
+Strong problem-solving skills.
+Team worker.
+Very comfortable learning new technologies, tools, and platforms.
+Highly motivated.
+Have shipped applications to the App Store or Google Play Store
