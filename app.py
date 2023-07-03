@@ -10,6 +10,11 @@ nltk.download('punkt')
 
 app = Flask(__name__)
 
+# Define the URL of the model
+model_url = "https://tfhub.dev/google/universal-sentence-encoder/4"
+
+# Download the model
+embed = hub.load(model_url)
 
 def filter_text(text):
     # Tokenize the text into individual words
@@ -40,12 +45,9 @@ def extract_text_from_pdf(file):
 
 def calc_semantic(cv_text, job_description_text):
     try:
-        module_url = "https://tfhub.dev/google/universal-sentence-encoder/4"
-        model = hub.load(module_url)
-
         # Encode the CV text and job description text into document embeddings
-        cv_embedding = np.array(model([cv_text])[0])
-        job_embedding = np.array(model([job_description_text])[0])
+        cv_embedding = np.array(embed([cv_text])[0])
+        job_embedding = np.array(embed([job_description_text])[0])
 
         # Calculate cosine similarity between the document embeddings
         similarity_score = np.dot(cv_embedding, job_embedding) / (
